@@ -13,10 +13,10 @@ If next operator will be ESQL then we understand that we are working with *.esql
 The same conclusion with operator FLOW and files .flow / .subflow.
 If we use ESQL RESPONSE then we generate .esql file for reponse flow.
 Cases with WRAP, ESQL, RESPONSE.
-WRAP ESQL RESPONSE
-WRAP FLOW RESPONSE
-WRAP ESQL REQUEST
-WRAP FLOW REQUEST
+- WRAP ESQL RESPONSE
+- WRAP FLOW RESPONSE
+- WRAP ESQL REQUEST
+- WRAP FLOW REQUEST
 
 
 
