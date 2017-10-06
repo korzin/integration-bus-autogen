@@ -17,6 +17,4 @@ Cases with WRAP, ESQL, RESPONSE.
 - WRAP FLOW RESPONSE
 - WRAP ESQL REQUEST
 - WRAP FLOW REQUEST
-
-
-
+- There must be variables that will be mapped from req to resp. So, It's probably will be a good idea to provide keyword word MAP. And source of variable in request and destination of variable in response(+vise versa) will be placed under variable-kayword. For instanse: MAP CORELID. MAP means assing from req to resp(and vie versa) and CORELID means name of the variable and source+destination. 
